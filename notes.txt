@@ -1,0 +1,71 @@
+for loop and for in loop
+
+var student =
+[
+    {
+      "id": "1",
+      "name": "Lura Senger",
+      "email": "Xander_Collier@yahoo.com"
+    },
+    {
+      "id": "2",
+      "name": "Wilburn Weber",
+      "email": "Bennett_Kreiger11@yahoo.com"
+    },
+    {
+      "id": "3",
+      "name": "Tyrique Hahn",
+      "email": "Juston.Altenwerth@yahoo.com"
+    },
+    {
+      "id": "4",
+      "name": "Lenny Bailey",
+      "email": "Guiseppe_Hegmann@yahoo.com"
+    },
+    {
+      "id": "5",
+      "name": "Vladimir Keeling",
+      "email": "Louisa_Walsh18@hotmail.com"
+    },
+    {
+      "id": "6",
+      "name": "Kellie Crona",
+      "email": "Chandler_Abernathy@yahoo.com"
+    },
+    {
+      "id": "7",
+      "name": "Carolina White",
+      "email": "Royal50@hotmail.com"
+    },
+for (vari=0;i<=0:i++){
+    console.log(i);
+}
+for(var i in student){
+ console.log(i);
+ }
+
+ RESUME IN JSON FORMAT
+ var student = {
+"name": "13",
+"dob":"12":
+"address":"wednjcmdk";
+"qualification":"bba";
+"email":"jggfskjhsjfgwuiffhbshjh":
+"phone":"87878758937":
+"label":"web developer":
+"city":"country";
+ }   
+
+
+WHAT IS WINDOW?
+   the overall dispay screen is called as window.
+   It represents a window containing a webpage which in turn is represented by the document object.  
+   A window can be a new window, a new tab, a frame set or individual frame created with JavaScript.
+
+
+WHAT IS SCREEN?
+The screen object in JavaScript represents the current display screen in your browser.  
+The window.screen object can be written without the window .
+
+WHAT IS DOCUMENT/
+A Document object represents the HTML document that is displayed in that window.
